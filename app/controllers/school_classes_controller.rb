@@ -1,6 +1,7 @@
 class SchoolClassesController < ApplicationController
 
   def new
+    @student = Post.new
   end
 
   def create
