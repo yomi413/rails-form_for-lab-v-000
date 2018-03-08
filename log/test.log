@@ -558,3 +558,4 @@ Completed 302 Found in 2ms (ActiveRecord: 0.3ms)
   [1m[35m (0.1ms)[0m  commit transaction
   [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
   [1m[35m (0.1ms)[0m  SELECT COUNT(*) FROM "students"
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
